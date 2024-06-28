@@ -2,6 +2,7 @@ import { initializeContent } from './content.js';
 import { about } from './about.js';
 import { home } from './home.js';
 import { menu } from './menu.js';
+import './style.css';
 
 // Call initializeContent function once the page is loaded
 document.addEventListener('DOMContentLoaded', () => {
